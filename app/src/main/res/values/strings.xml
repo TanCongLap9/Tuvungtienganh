@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Từ điển giao tiếp Anh - Việt</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Từ điển giao tiếp Anh - Việt</string>
+    <string name="nav_header_subtitle">Từ điển giao tiếp trong tầm tay!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_nha">Nhà</string>
+    <string name="menu_cac_chu_de">Các chủ đề</string>
+    <string name="menu_cac_cau_da_thich">Các câu đã thích</string>
+    <string name="menu_lich_su_tra_cuu">Lịch sử tra cứu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/menu_nha" />
+        <item
+            android:id="@+id/nav_cac_chu_de"
+            android:icon="@drawable/baseline_view_list_24"
+            android:title="@string/menu_cac_chu_de" />
+        <item
+            android:id="@+id/nav_cac_cau_da_thich"
+            android:icon="@drawable/baseline_favorite_24"
+            android:title="@string/menu_cac_cau_da_thich" />
+        <item
+            android:id="@+id/nav_lich_su_tra_cuu"
+            android:icon="@drawable/baseline_history_24"
+            android:title="@string/menu_lich_su_tra_cuu" />
+    </group>
+</menu>

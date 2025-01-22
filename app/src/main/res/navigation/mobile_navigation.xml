@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.tuvungtienganh.ui.nha.NhaFragment"
+        android:label="@string/menu_nha"
+        tools:layout="@layout/fragment_nha" />
+
+    <fragment
+        android:id="@+id/nav_cac_chu_de"
+        android:name="com.example.tuvungtienganh.ui.cac_chu_de.CacChuDeFragment"
+        android:label="@string/menu_cac_chu_de"
+        tools:layout="@layout/fragment_cac_chu_de" />
+
+    <fragment
+        android:id="@+id/nav_cac_cau_da_thich"
+        android:name="com.example.tuvungtienganh.ui.cac_cau_da_thich.CacCauDaThichFragment"
+        android:label="@string/menu_cac_cau_da_thich"
+        tools:layout="@layout/fragment_cac_cau_da_thich" />
+
+    <fragment
+        android:id="@+id/nav_lich_su_tra_cuu"
+        android:name="com.example.tuvungtienganh.ui.lich_su.LichSuTraCuuFragment"
+        android:label="@string/menu_lich_su_tra_cuu"
+        tools:layout="@layout/fragment_lich_su_tra_cuu" />
+</navigation>

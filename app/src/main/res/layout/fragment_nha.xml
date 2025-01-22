@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/fragment_home_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#4CAF50">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/fragment_home_chu_ghi_la_english_speaking_dictionary_trong_tieng_anh_nghia_la_tu_dien_giao_tiep_anh_viet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="English Speaking Dictionary"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/primary_text_dark"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/fragment_home_chu_ghi_la_tu_dien_giao_tiep_anh_viet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:text="Từ điển giao tiếp Anh - Việt"
+                    android:textAlignment="center"
+                    android:textColor="#dddddd"
+                    android:textSize="20sp" />
+
+                <androidx.appcompat.widget.SearchView
+                    android:id="@+id/fragment_home_tim_kiem_cac_cau_theo_tu_khoa_duoc_chi_dinh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    app:queryHint="Tìm kiếm câu..." />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:id="@+id/fragment_home_khung_chua_danh_sach_cac_cau_moi_cac_cau_da_thich_va_cac_cau_can_on_lai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="4dp"
+            android:paddingVertical="16dp">
+
+            <TextView
+                android:id="@+id/fragment_home_chu_ghi_la_cac_cau_moi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Các câu mới"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_home_danh_sach_cac_cau_moi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="16dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:listitem="@layout/listitem_nha" />
+
+            <TextView
+                android:id="@+id/fragment_home_chu_ghi_la_cac_cau_da_thich"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Các câu đã thích"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_home_danh_sach_cac_cau_da_thich"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="16dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:layout_editor_absoluteX="4dp"
+                tools:listitem="@layout/listitem_nha" />
+
+            <TextView
+                android:id="@+id/fragment_home_chu_ghi_la_on_lai_cac_cau_da_hoc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ôn lại các câu đã học"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_home_danh_sach_cac_cau_can_on_lai"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="16dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:listitem="@layout/listitem_nha" />
+
+            <TextView
+                android:id="@+id/fragment_home_chu_ghi_la_thong_tin_ung_dung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Thông tin ứng dụng:"
+                android:textAlignment="center"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/fragment_home_chu_ghi_ten_phan_mem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Tên phần mềm: "
+                android:textAlignment="center"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/fragment_home_chu_ghi_phien_ban_cua_ung_dung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Phiên bản: "
+                android:textAlignment="center"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="&#169; 2024 Từ điển giao tiếp Anh - Việt. Mọi quyền được bảo lưu."
+                android:textAlignment="center"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,2936 @@
+[
+  {
+    "id": 0,
+    "name": "Hello – Xin Chào",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Hey man.",
+        "vietnamese": "Ê anh bạn, hoặc Chào."
+      },
+      {
+        "id": 1,
+        "english": "How's it going?",
+        "vietnamese": "Dạo này bạn thế nào?"
+      },
+      {
+        "id": 2,
+        "english": "How are you doing?",
+        "vietnamese": "Dạo này bạn thế nào?"
+      },
+      {
+        "id": 3,
+        "english": "What's up?",
+        "vietnamese": "Có chuyện gì đó?"
+      },
+      {
+        "id": 4,
+        "english": "What's new?",
+        "vietnamese": "Có gì mới không?"
+      },
+      {
+        "id": 5,
+        "english": "What's going on?",
+        "vietnamese": "Có chuyện gì vậy ạ?"
+      },
+      {
+        "id": 6,
+        "english": "How's everything?",
+        "vietnamese": "Mọi thứ sao?"
+      },
+      {
+        "id": 7,
+        "english": "How are things?",
+        "vietnamese": "Mọi thứ sao?"
+      },
+      {
+        "id": 8,
+        "english": "How's life?",
+        "vietnamese": "Cuộc sống của bạn như thế nào rồi?"
+      },
+      {
+        "id": 9,
+        "english": "How's it going?",
+        "vietnamese": "Dạo này bạn thế nào rồi?"
+      },
+      {
+        "id": 10,
+        "english": "How do you do?",
+        "vietnamese": "Bạn thế nào rồi?"
+      },
+      {
+        "id": 11,
+        "english": "How's your day?",
+        "vietnamese": "Một ngày của bạn như thế nào?"
+      },
+      {
+        "id": 12,
+        "english": "How's your day going?",
+        "vietnamese": "Một ngày của bạn như thế nào?"
+      },
+      {
+        "id": 13,
+        "english": "Haven't seen you for ages.",
+        "vietnamese": "Lâu lắm rồi không gặp bạn."
+      },
+      {
+        "id": 14,
+        "english": "Long time no see",
+        "vietnamese": "Lâu rồi không gặp."
+      },
+      {
+        "id": 15,
+        "english": "It's been a while",
+        "vietnamese": "Đã lâu lắm rồi."
+      },
+      {
+        "id": 16,
+        "english": "Whazzup?",
+        "vietnamese": "Có chuyện gì đó?"
+      },
+      {
+        "id": 17,
+        "english": "Great to see you again.",
+        "vietnamese": "Rất vui khi gặp lại bạn."
+      },
+      {
+        "id": 18,
+        "english": "How's tricks?",
+        "vietnamese": "Bạn có khỏe không?"
+      },
+      {
+        "id": 19,
+        "english": "Heeey",
+        "vietnamese": "Chào!"
+      },
+      {
+        "id": 20,
+        "english": "Haven't seen you in a long time.",
+        "vietnamese": "Lâu rồi không gặp bạn."
+      },
+      {
+        "id": 21,
+        "english": "Haven't seen you for a long time.",
+        "vietnamese": "Lâu rồi không gặp bạn."
+      },
+      {
+        "id": 22,
+        "english": "Nice to meet you.",
+        "vietnamese": "Rất vui khi gặp bạn."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Goodbye – Tạm Biệt",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Bye!",
+        "vietnamese": "Tạm biệt!"
+      },
+      {
+        "id": 1,
+        "english": "Goodbye!",
+        "vietnamese": "Tạm biệt nhé!"
+      },
+      {
+        "id": 2,
+        "english": "Bye for now!",
+        "vietnamese": "Tạm biệt nhé!"
+      },
+      {
+        "id": 3,
+        "english": "See you!",
+        "vietnamese": "Tạm biệt bạn."
+      },
+      {
+        "id": 4,
+        "english": "See ya!",
+        "vietnamese": "Tạm biệt bạn."
+      },
+      {
+        "id": 5,
+        "english": "Be seeing you!",
+        "vietnamese": "Hẹn gặp lại!"
+      },
+      {
+        "id": 6,
+        "english": "See you soon!",
+        "vietnamese": "Mong sớm gặp lại bạn!"
+      },
+      {
+        "id": 7,
+        "english": "I'm off.",
+        "vietnamese": "Tôi đi đây."
+      },
+      {
+        "id": 8,
+        "english": "Catch you later!",
+        "vietnamese": "Gặp lại bạn sau!"
+      },
+      {
+        "id": 9,
+        "english": "Good night!",
+        "vietnamese": "Chúc ngủ ngon!"
+      },
+      {
+        "id": 10,
+        "english": "Farewell.",
+        "vietnamese": "Tạm biệt!"
+      },
+      {
+        "id": 11,
+        "english": "So long.",
+        "vietnamese": "Tạm biệt!"
+      },
+      {
+        "id": 12,
+        "english": "Alright then.",
+        "vietnamese": "Tạm biệt!"
+      },
+      {
+        "id": 13,
+        "english": "Have a good one.",
+        "vietnamese": "Chúc một ngày tốt lành."
+      },
+      {
+        "id": 14,
+        "english": "See you later.",
+        "vietnamese": "Gặp lại bạn sau."
+      },
+      {
+        "id": 15,
+        "english": "Talk to you later.",
+        "vietnamese": "Nói chuyện với bạn sau nhé!"
+      },
+      {
+        "id": 16,
+        "english": "Later!",
+        "vietnamese": "Gặp lại sau!"
+      },
+      {
+        "id": 17,
+        "english": "Smell you later.",
+        "vietnamese": "Hẹn gặp lại bạn sau."
+      },
+      {
+        "id": 18,
+        "english": "Peace!",
+        "vietnamese": "Tạm biệt!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Thank You – Cảm Ơn",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Thanks.",
+        "vietnamese": "Cảm ơn."
+      },
+      {
+        "id": 1,
+        "english": "Cheers.",
+        "vietnamese": "Chúc mừng."
+      },
+      {
+        "id": 2,
+        "english": "Thank you very much.",
+        "vietnamese": "Cảm ơn rất nhiều."
+      },
+      {
+        "id": 3,
+        "english": "I really appreciate it.",
+        "vietnamese": "Tôi thật sự ghi nhận sự giúp đỡ của bạn."
+      },
+      {
+        "id": 4,
+        "english": "You've made my day.",
+        "vietnamese": "Bạn đã làm nên một ngày tuyệt vời cho tôi."
+      },
+      {
+        "id": 5,
+        "english": "How thoughtful.",
+        "vietnamese": "Bạn thật chu đáo."
+      },
+      {
+        "id": 6,
+        "english": "You shouldn't have.",
+        "vietnamese": "Bạn không cần làm vậy đâu."
+      },
+      {
+        "id": 7,
+        "english": "That's so kind of you.",
+        "vietnamese": "Bạn thật tốt với tôi."
+      },
+      {
+        "id": 8,
+        "english": "I am most grateful.",
+        "vietnamese": "Tôi thật sự biết ơn vì điều này."
+      },
+      {
+        "id": 9,
+        "english": "We would like to express our gratitude...",
+        "vietnamese": "Chúng tôi muốn bày tỏ sự biết ơn tới..."
+      },
+      {
+        "id": 10,
+        "english": "That's very kind of you.",
+        "vietnamese": "Bạn thật tốt với tôi."
+      },
+      {
+        "id": 11,
+        "english": "Thanks a lot.",
+        "vietnamese": "Cảm ơn rất nhiều."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Respond To \"Thank You\" – Đáp Lại Lời Cảm Ơn",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Sure.",
+        "vietnamese": "Không có gì."
+      },
+      {
+        "id": 1,
+        "english": "No sweat.",
+        "vietnamese": "Không sao, không hề gì (không đổ mồ hôi)."
+      },
+      {
+        "id": 2,
+        "english": "No problem.",
+        "vietnamese": "Không có gì."
+      },
+      {
+        "id": 3,
+        "english": "You're welcome.",
+        "vietnamese": "Không có gì."
+      },
+      {
+        "id": 4,
+        "english": "Don't worry about it.",
+        "vietnamese": "Đừng bận tâm về điều đó."
+      },
+      {
+        "id": 5,
+        "english": "Don't mention it.",
+        "vietnamese": "Đừng bận tâm."
+      },
+      {
+        "id": 6,
+        "english": "You're quite welcome.",
+        "vietnamese": "Không có gì."
+      },
+      {
+        "id": 7,
+        "english": "No, not at all.",
+        "vietnamese": "Không, không có gì cả."
+      },
+      {
+        "id": 8,
+        "english": "It's my pleasure.",
+        "vietnamese": "Giúp đỡ bạn là niềm vinh hạnh của tôi."
+      },
+      {
+        "id": 9,
+        "english": "It's the least I could do.",
+        "vietnamese": "Đó là điều nhỏ bé nhất tôi có thể làm cho bạn."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sorry – Xin Lỗi",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Sorry.",
+        "vietnamese": "Xin lỗi."
+      },
+      {
+        "id": 1,
+        "english": "I'm so sorry.",
+        "vietnamese": "Tôi thật sự xin lỗi."
+      },
+      {
+        "id": 2,
+        "english": "I'm very sorry.",
+        "vietnamese": "Tôi thật sự xin lỗi."
+      },
+      {
+        "id": 3,
+        "english": "I'm terribly sorry.",
+        "vietnamese": "Tôi thật sự xin lỗi."
+      },
+      {
+        "id": 4,
+        "english": "Ever so sorry.",
+        "vietnamese": "Rất xin lỗi."
+      },
+      {
+        "id": 5,
+        "english": "I'm ever so sorry.",
+        "vietnamese": "Rất xin lỗi."
+      },
+      {
+        "id": 6,
+        "english": "How stupid of me.",
+        "vietnamese": "Sao tôi lại ngớ ngẩn như vậy."
+      },
+      {
+        "id": 7,
+        "english": "How careless of me.",
+        "vietnamese": "Sao tôi lại bất cẩn như vậy."
+      },
+      {
+        "id": 8,
+        "english": "How thoughtless of me.",
+        "vietnamese": "Sao tôi lại thiếu suy nghĩ như vậy."
+      },
+      {
+        "id": 9,
+        "english": "Pardon (me).",
+        "vietnamese": "Thứ lỗi cho tôi."
+      },
+      {
+        "id": 10,
+        "english": "That's my fault.",
+        "vietnamese": "Đó là lỗi của tôi."
+      },
+      {
+        "id": 11,
+        "english": "Sorry. It was all my fault.",
+        "vietnamese": "Xin lỗi. Mọi lỗi lầm đều do tôi."
+      },
+      {
+        "id": 12,
+        "english": "Please excuse my ignorance.",
+        "vietnamese": "Xin hãy bỏ qua sự thiếu sót của tôi."
+      },
+      {
+        "id": 13,
+        "english": "Please don't be mad at me.",
+        "vietnamese": "Làm ơn, đừng giận tôi nhé."
+      },
+      {
+        "id": 14,
+        "english": "Please accept our apologies.",
+        "vietnamese": "Xin hãy nhận lời xin lỗi của tôi."
+      },
+      {
+        "id": 15,
+        "english": "Please accept our sincerest apologies.",
+        "vietnamese": "Xin hãy nhận lời xin lỗi chân thành nhất của tôi."
+      },
+      {
+        "id": 16,
+        "english": "My mistake. I had that wrong.",
+        "vietnamese": "Lỗi của tôi. Tôi đã làm không đúng."
+      },
+      {
+        "id": 17,
+        "english": "I was wrong on that.",
+        "vietnamese": "Tôi đã làm không đúng."
+      },
+      {
+        "id": 18,
+        "english": "My bad.",
+        "vietnamese": "Lỗi của tôi."
+      },
+      {
+        "id": 19,
+        "english": "My fault.",
+        "vietnamese": "Lỗi của tôi."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Saying No – Nói Không",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "In a word, no.",
+        "vietnamese": "Một từ thôi, không."
+      },
+      {
+        "id": 1,
+        "english": "Not on your life.",
+        "vietnamese": "Đương nhiên là không!"
+      },
+      {
+        "id": 2,
+        "english": "Not likely.",
+        "vietnamese": "Không bao giờ! Không đời nào!"
+      },
+      {
+        "id": 3,
+        "english": "Over my dead body.",
+        "vietnamese": "Không đời nào! (Bước qua xác tôi đã)"
+      },
+      {
+        "id": 4,
+        "english": "Count me out.",
+        "vietnamese": "Đừng tính tôi vào."
+      },
+      {
+        "id": 5,
+        "english": "I'd rather not.",
+        "vietnamese": "Tôi không muốn."
+      },
+      {
+        "id": 6,
+        "english": "I'd rather not if you don't mind.",
+        "vietnamese": "Tôi không muốn nếu bạn không giận."
+      },
+      {
+        "id": 7,
+        "english": "I'd love to, but...",
+        "vietnamese": "Tôi rất thích, nhưng..."
+      },
+      {
+        "id": 8,
+        "english": "No chance.",
+        "vietnamese": "Không có khả năng xảy ra."
+      },
+      {
+        "id": 9,
+        "english": "Nuh ahh!",
+        "vietnamese": "Không nhé!"
+      },
+      {
+        "id": 10,
+        "english": "Hell no!",
+        "vietnamese": "Không nhé!"
+      },
+      {
+        "id": 11,
+        "english": "No way!",
+        "vietnamese": "Không đời nào!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Talking About Good Idea – Nói Về Ý Tưởng Hay",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "That's a great idea.",
+        "vietnamese": "Đó là ý tưởng tuyệt vời."
+      },
+      {
+        "id": 1,
+        "english": "That's an idea.",
+        "vietnamese": "Đó là một ý tưởng."
+      },
+      {
+        "id": 2,
+        "english": "I think that's a fantastic idea.",
+        "vietnamese": "Tôi nghĩ đó quả là một ý tưởng tuyệt vời."
+      },
+      {
+        "id": 3,
+        "english": "I like that idea.",
+        "vietnamese": "Tôi thích ý tưởng đó."
+      },
+      {
+        "id": 4,
+        "english": "I like the idea of that.",
+        "vietnamese": "Tôi thích ý tưởng đó."
+      },
+      {
+        "id": 5,
+        "english": "That's not a bad idea.",
+        "vietnamese": "Đó không phải ý kiến tồi."
+      },
+      {
+        "id": 6,
+        "english": "You know what? That's a good idea.",
+        "vietnamese": "Bạn biết không? Đó là một ý tưởng hay."
+      },
+      {
+        "id": 7,
+        "english": "Cool!",
+        "vietnamese": "Tuyệt!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Being An Expert In English – Nói Ai Đó Là Chuyên Gia Trong Lĩnh Vực Gì",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "He knows all about photography.",
+        "vietnamese": "Anh ấy biết tất tần tật về nhiếp ảnh."
+      },
+      {
+        "id": 1,
+        "english": "He's a camera expert.",
+        "vietnamese": "Anh ấy là một chuyên gia về máy ảnh."
+      },
+      {
+        "id": 2,
+        "english": "He's an expert on digital cameras.",
+        "vietnamese": "Anh ấy là một chuyên gia về máy ảnh kỹ thuật số."
+      },
+      {
+        "id": 3,
+        "english": "There's nothing he doesn't know about X.",
+        "vietnamese": "Không có cái gì là anh ấy không biết về X."
+      },
+      {
+        "id": 4,
+        "english": "He knows photography inside out.",
+        "vietnamese": "Anh ấy biết rất sâu về nhiếp ảnh."
+      },
+      {
+        "id": 5,
+        "english": "You wouldn't believe what he knows about X.",
+        "vietnamese": "Bạn sẽ không thể tin những gì anh ấy biết về X đâu."
+      },
+      {
+        "id": 6,
+        "english": "He's a walking encyclopaedia of X.",
+        "vietnamese": "Anh ta là một bộ bách khoa toàn thư về X."
+      },
+      {
+        "id": 7,
+        "english": "Photography's his subject.",
+        "vietnamese": "Nhiếp ảnh là chuyên ngành của anh ấy."
+      },
+      {
+        "id": 8,
+        "english": "He knows it from A – Z.",
+        "vietnamese": "Anh ấy biết về nó từ A đến Z."
+      },
+      {
+        "id": 9,
+        "english": "He's an authority on digital cameras.",
+        "vietnamese": "Anh ấy là chuyên gia về máy ảnh kỹ thuật số."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ways To Say Well Done – Các Cách Khen Ai Đó Làm Tốt",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Good for you!",
+        "vietnamese": "Chúc mừng, tốt lắm đó."
+      },
+      {
+        "id": 1,
+        "english": "That's really nice.",
+        "vietnamese": "Điều đó thật sự rất tuyệt."
+      },
+      {
+        "id": 2,
+        "english": "Great!",
+        "vietnamese": "Tuyệt vời, xuất sắc!"
+      },
+      {
+        "id": 3,
+        "english": "That's the best ever.",
+        "vietnamese": "Tốt hơn bao giờ hết."
+      },
+      {
+        "id": 4,
+        "english": "You did that very well.",
+        "vietnamese": "Bạn làm rất tốt."
+      },
+      {
+        "id": 5,
+        "english": "That's great!",
+        "vietnamese": "Thật tuyệt vời!"
+      },
+      {
+        "id": 6,
+        "english": "You've got it made.",
+        "vietnamese": "Bạn đã làm được nó rồi."
+      },
+      {
+        "id": 7,
+        "english": "Way to go!",
+        "vietnamese": "Làm tốt lắm, làm khá lắm!"
+      },
+      {
+        "id": 8,
+        "english": "Terrific!",
+        "vietnamese": "Xuất sắc!"
+      },
+      {
+        "id": 9,
+        "english": "That's the way to do it!",
+        "vietnamese": "Đó chính là cách làm nên cái gì đó!"
+      },
+      {
+        "id": 10,
+        "english": "That's not bad!",
+        "vietnamese": "Đúng là không tồi!"
+      },
+      {
+        "id": 11,
+        "english": "That's quite an improvement.",
+        "vietnamese": "Thực sự là một bước tiến bộ."
+      },
+      {
+        "id": 12,
+        "english": "Couldn't have done it better myself.",
+        "vietnamese": "Không thể nào tốt hơn được nữa."
+      },
+      {
+        "id": 13,
+        "english": "Good thinking.",
+        "vietnamese": "Ý tưởng tuyệt vời."
+      },
+      {
+        "id": 14,
+        "english": "Marvelous.",
+        "vietnamese": "Rất tuyệt."
+      },
+      {
+        "id": 15,
+        "english": "You really are going to town.",
+        "vietnamese": "Làm một cái gì thật nhanh chóng và chu đáo."
+      },
+      {
+        "id": 16,
+        "english": "You're doing fine.",
+        "vietnamese": "Bạn đang làm rất tốt."
+      },
+      {
+        "id": 17,
+        "english": "Keep up the good work.",
+        "vietnamese": "Hãy luôn giữ công việc tốt như bây giờ."
+      },
+      {
+        "id": 18,
+        "english": "You're really improving.",
+        "vietnamese": "Bạn thực sự đang tiến bộ."
+      },
+      {
+        "id": 19,
+        "english": "That's it!",
+        "vietnamese": "Chính là nó!"
+      },
+      {
+        "id": 20,
+        "english": "You're on the right track now!",
+        "vietnamese": "Giờ bạn đang đi đúng đường rồi đó!"
+      },
+      {
+        "id": 21,
+        "english": "That's better.",
+        "vietnamese": "Tốt hơn rồi đó."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Say Things Are Easy – Nói Điều Gì Là Dễ Dàng",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "It's a breeze.",
+        "vietnamese": "Nó quá dễ."
+      },
+      {
+        "id": 1,
+        "english": "Easy peasy.",
+        "vietnamese": "Quá dễ."
+      },
+      {
+        "id": 2,
+        "english": "It's a cinch.",
+        "vietnamese": "Đó là một điều dễ dàng."
+      },
+      {
+        "id": 3,
+        "english": "There's nothing to it.",
+        "vietnamese": "Đơn giản thôi mà."
+      },
+      {
+        "id": 4,
+        "english": "Anyone can do it.",
+        "vietnamese": "Bất cứ ai cũng có thể làm được."
+      },
+      {
+        "id": 5,
+        "english": "It's child's play.",
+        "vietnamese": "Dễ như chơi ấy mà."
+      },
+      {
+        "id": 6,
+        "english": "It's a walk in the park.",
+        "vietnamese": "Dễ ợt ấy mà."
+      },
+      {
+        "id": 7,
+        "english": "It's not rocket science.",
+        "vietnamese": "Không khó tới mức ấy đâu."
+      },
+      {
+        "id": 8,
+        "english": "It's easy as pie!",
+        "vietnamese": "Nó dễ như ăn bánh vậy."
+      },
+      {
+        "id": 9,
+        "english": "It's a piece of cake!",
+        "vietnamese": "Nó dễ như ăn bánh vậy."
+      },
+      {
+        "id": 10,
+        "english": "I can do it with my eyes shut.",
+        "vietnamese": "Nhắm mắt tôi cũng làm được."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Say Something Is Difficult – Nói Điều Gì Là Khó Khăn",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "It's not so easy...",
+        "vietnamese": "Nó không quá dễ để..."
+      },
+      {
+        "id": 1,
+        "english": "It's a bit tricky...",
+        "vietnamese": "Cái này hơi rắc rối một chút."
+      },
+      {
+        "id": 2,
+        "english": "It's not the easiest ___ in the world...",
+        "vietnamese": "Đó không phải là điều...dễ nhất trên đời."
+      },
+      {
+        "id": 3,
+        "english": "It's quite tough at times...",
+        "vietnamese": "Đôi lúc cũng rất khó khăn."
+      },
+      {
+        "id": 4,
+        "english": "It's quite hard going.",
+        "vietnamese": "Nó khá khó nhằn."
+      },
+      {
+        "id": 5,
+        "english": "It's a bit hard going.",
+        "vietnamese": "Nó khá khó nhằn."
+      },
+      {
+        "id": 6,
+        "english": "It's kinda tough.",
+        "vietnamese": "Nó khá khó nhằn."
+      },
+      {
+        "id": 7,
+        "english": "It's nearly impossible.",
+        "vietnamese": "Nó gần như là điều không thể."
+      },
+      {
+        "id": 8,
+        "english": "The course is really demanding.",
+        "vietnamese": "Cách này đòi hỏi rất nhiều công sức."
+      },
+      {
+        "id": 9,
+        "english": "The course is quite demanding.",
+        "vietnamese": "Cách này đòi hỏi rất nhiều công sức."
+      },
+      {
+        "id": 10,
+        "english": "The course can be gruelling at times.",
+        "vietnamese": "Cách này đôi khi sẽ làm bạn mệt lử."
+      },
+      {
+        "id": 11,
+        "english": "It's not a walk in the park",
+        "vietnamese": "Việc này không (dễ) như đi dạo trong công viên đâu."
+      },
+      {
+        "id": 12,
+        "english": "It's a bear.",
+        "vietnamese": "Thực sự rất khó."
+      },
+      {
+        "id": 13,
+        "english": "It's a real bear.",
+        "vietnamese": "Thực sự rất khó."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Say Something Is Correct – Nói Điều Gì Là Đúng Đắn",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Yes, that's right.",
+        "vietnamese": "Đúng, chính xác."
+      },
+      {
+        "id": 1,
+        "english": "Yeah, that's right.",
+        "vietnamese": "Đúng, chính xác."
+      },
+      {
+        "id": 2,
+        "english": "You're quite right.",
+        "vietnamese": "Bạn khá đúng."
+      },
+      {
+        "id": 3,
+        "english": "Yes, that's correct.",
+        "vietnamese": "Đúng, chính xác."
+      },
+      {
+        "id": 4,
+        "english": "Right on!",
+        "vietnamese": "Chính là nó."
+      },
+      {
+        "id": 5,
+        "english": "That's right on!",
+        "vietnamese": "Chính là nó."
+      },
+      {
+        "id": 6,
+        "english": "You're dead right.",
+        "vietnamese": "Bạn (hoàn toàn) đúng."
+      },
+      {
+        "id": 7,
+        "english": "Absolutely.",
+        "vietnamese": "Chính xác là thế."
+      },
+      {
+        "id": 8,
+        "english": "You've hit the nail on the head.",
+        "vietnamese": "Bạn đã đánh rất trúng vấn đề."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Say Something Is Wrong – Nói Điều Gì Là Sai",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "You could say so.",
+        "vietnamese": "Có thể nói như vậy."
+      },
+      {
+        "id": 1,
+        "english": "I'm afraid so.",
+        "vietnamese": "Tôi e là vậy."
+      },
+      {
+        "id": 2,
+        "english": "I'm afraid not.",
+        "vietnamese": "Tôi e là vậy."
+      },
+      {
+        "id": 3,
+        "english": "(I'm) sorry to say so.",
+        "vietnamese": "Tôi rất tiếc phải nói như vậy."
+      },
+      {
+        "id": 4,
+        "english": "I'm afraid that's not quite right.",
+        "vietnamese": "Tôi e rằng nó chưa đúng."
+      },
+      {
+        "id": 5,
+        "english": "Actually, I think you'll find that...",
+        "vietnamese": "Thực ra, tôi nghĩ bạn sẽ thấy rằng..."
+      },
+      {
+        "id": 6,
+        "english": "I'm afraid you're mistaken.",
+        "vietnamese": "Tôi e rằng bạn đã mắc lỗi."
+      },
+      {
+        "id": 7,
+        "english": "I don't think you're right about...",
+        "vietnamese": "Tôi không nghĩ bạn đã đúng về..."
+      },
+      {
+        "id": 8,
+        "english": "Actually, I don't think...",
+        "vietnamese": "Thực sự, tôi không nghĩ rằng..."
+      },
+      {
+        "id": 9,
+        "english": "No, you've got it wrong.",
+        "vietnamese": "Không, bạn hiểu sai rồi."
+      },
+      {
+        "id": 10,
+        "english": "No, that's all wrong.",
+        "vietnamese": "Không, điều đó sai hoàn toàn."
+      },
+      {
+        "id": 11,
+        "english": "Bologna!",
+        "vietnamese": "Nhảm!"
+      },
+      {
+        "id": 12,
+        "english": "What a bunch of bologna!",
+        "vietnamese": "Vô lý!"
+      },
+      {
+        "id": 13,
+        "english": "That's bologna!",
+        "vietnamese": "Bạn đang nói bậy nói bạ."
+      },
+      {
+        "id": 14,
+        "english": "Where did you hear that?",
+        "vietnamese": "Bạn nghe được điều đó ở đâu?"
+      },
+      {
+        "id": 15,
+        "english": "If you check your facts, you'll find...",
+        "vietnamese": "Nếu bạn kiểm tra lại thực tế bạn sẽ thấy ..."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Giving An Opinion – Đưa Ra Quan Điểm",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I reckon...",
+        "vietnamese": "Tôi cho là..."
+      },
+      {
+        "id": 1,
+        "english": "I'd say...",
+        "vietnamese": "Tôi muốn nói là..."
+      },
+      {
+        "id": 2,
+        "english": "Personally, I think...",
+        "vietnamese": "Cá nhân tôi cho rằng..."
+      },
+      {
+        "id": 3,
+        "english": "My take on it is...",
+        "vietnamese": "Điều tôi tìm ra đó là..."
+      },
+      {
+        "id": 4,
+        "english": "If you ask me...",
+        "vietnamese": "Nếu bạn hỏi tôi..."
+      },
+      {
+        "id": 5,
+        "english": "The way I see it...",
+        "vietnamese": "Cách tôi nhìn vấn đề là..."
+      },
+      {
+        "id": 6,
+        "english": "As far as I'm concerned...",
+        "vietnamese": "Theo những gì tôi biết..."
+      },
+      {
+        "id": 7,
+        "english": "If you don't mind me saying...",
+        "vietnamese": "Nếu không phiền tôi xin nói rằng..."
+      },
+      {
+        "id": 8,
+        "english": "I'm utterly convinced that...",
+        "vietnamese": "Tôi hoàn toàn bị thuyết phục rằng..."
+      },
+      {
+        "id": 9,
+        "english": "In my humble opinion...",
+        "vietnamese": "Trong suy nghĩ nhỏ bé của tôi thì..."
+      },
+      {
+        "id": 10,
+        "english": "In my experience...",
+        "vietnamese": "Theo kinh nghiệm của tôi..."
+      },
+      {
+        "id": 11,
+        "english": "Speaking for myself...",
+        "vietnamese": "Theo riêng tôi..."
+      },
+      {
+        "id": 12,
+        "english": "I'd say that...",
+        "vietnamese": "Tôi muốn nói rằng..."
+      },
+      {
+        "id": 13,
+        "english": "I'd like to point out that...",
+        "vietnamese": "Tôi muốn chỉ ra rằng..."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Having A Guess – Phỏng Đoán",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Off the top of my head, I think she's 26.",
+        "vietnamese": "Hiện ra ngay trong đầu tôi lúc đó là ý nghĩ cô ấy 26 tuổi."
+      },
+      {
+        "id": 1,
+        "english": "Knowing (the English), he likes football.",
+        "vietnamese": "Được biết, anh ấy thích bóng đá."
+      },
+      {
+        "id": 2,
+        "english": "If I had to take a guess, I'd say she's 26.",
+        "vietnamese": "Nếu bảo đoán, tôi sẽ nói cô ấy 26 tuổi."
+      },
+      {
+        "id": 3,
+        "english": "I'd say she's 26.",
+        "vietnamese": "Tôi sẽ đoán cô ấy 26 tuổi."
+      },
+      {
+        "id": 4,
+        "english": "Chances are she's 26.",
+        "vietnamese": "Cũng cỡ 26 tuổi."
+      },
+      {
+        "id": 5,
+        "english": "At a guess, I'd say she's 26.",
+        "vietnamese": "Theo phán đoán, tôi sẽ nói cô ấy 26 tuổi."
+      },
+      {
+        "id": 6,
+        "english": "Probably about 26.",
+        "vietnamese": "Có lẽ khoảng 26."
+      },
+      {
+        "id": 7,
+        "english": "We're talking maybe late twenties.",
+        "vietnamese": "Chúng ta đang nói có thể là cuối những năm 20."
+      },
+      {
+        "id": 8,
+        "english": "About 6-ish.",
+        "vietnamese": "Cỡ 6 giờ."
+      },
+      {
+        "id": 9,
+        "english": "Around about 6 o'clock.",
+        "vietnamese": "Khoảng khoảng 6 giờ."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Advice And Suggestions – Đưa Ra Lời Khuyên Và Đề Nghị",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I reckon you should stop now.",
+        "vietnamese": "Tôi nghĩ bạn nên ngừng lại ngay."
+      },
+      {
+        "id": 1,
+        "english": "Why don't you stop now?",
+        "vietnamese": "Tại sao bạn không dừng ngay nó đi?"
+      },
+      {
+        "id": 2,
+        "english": "How about stopping now?",
+        "vietnamese": "Nếu dừng lại bây giờ thì sao?"
+      },
+      {
+        "id": 3,
+        "english": "If I were you, I'd stop now.",
+        "vietnamese": "Nếu tôi là bạn, tôi sẽ dừng lại ngay."
+      },
+      {
+        "id": 4,
+        "english": "I suggest you stop now.",
+        "vietnamese": "Tôi đề nghị bạn ngừng lại ngay."
+      },
+      {
+        "id": 5,
+        "english": "You'd (really) better stop right now.",
+        "vietnamese": "Tốt hơn hết là ngừng lại ngay đi."
+      },
+      {
+        "id": 6,
+        "english": "I would strongly advise you to stop.",
+        "vietnamese": "Tôi thực sự khuyên bạn hãy dừng lại."
+      },
+      {
+        "id": 7,
+        "english": "My advice would be to stop now.",
+        "vietnamese": "Lời khuyên của tôi là bạn nên dừng lại ngay."
+      },
+      {
+        "id": 8,
+        "english": "It might be a good idea to stop.",
+        "vietnamese": "Dừng lại có lẽ là một ý tưởng tốt."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hoping For Something – Hy Vọng Vào Điều Gì Đó",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I hope it's sunny tomorrow.",
+        "vietnamese": "Tôi hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 1,
+        "english": "I'm hoping it'll be sunny tomorrow.",
+        "vietnamese": "Tôi đang hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 2,
+        "english": "Hopefully, it'll be sunny tomorrow.",
+        "vietnamese": "Hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 3,
+        "english": "Let's hope it's sunny tomorrow.",
+        "vietnamese": "Hãy hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 4,
+        "english": "Here's hoping we have a sunny day.",
+        "vietnamese": "Hy vọng chúng ta sẽ có một ngày nắng."
+      },
+      {
+        "id": 5,
+        "english": "If we're lucky, it'll be sunny tomorrow.",
+        "vietnamese": "Nếu chúng ta may mắn, mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 6,
+        "english": "With any luck, it'll be sunny tomorrow.",
+        "vietnamese": "May mắn thì mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 7,
+        "english": "If only it would be sunny...",
+        "vietnamese": "Tôi hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 8,
+        "english": "I wish it would be sunny.",
+        "vietnamese": "Tôi hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "id": 9,
+        "english": "I'm keeping my fingers crossed for...",
+        "vietnamese": "Tôi hy vọng ... sẽ suôn sẻ theo ý muốn."
+      },
+      {
+        "id": 10,
+        "english": "I'm counting on it being sunny.",
+        "vietnamese": "Tôi tin tưởng vào việc trời sẽ nắng."
+      },
+      {
+        "id": 11,
+        "english": "I'm really counting on it being sunny.",
+        "vietnamese": "Tôi thực sự tin tưởng vào việc trời sẽ nắng."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Possibility – Nói Về Những Điều Có Khả Năng Xảy Ra",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "It's probably going to rain tomorrow.",
+        "vietnamese": "Chắc chắn trời sẽ mưa vào ngày mai."
+      },
+      {
+        "id": 1,
+        "english": "There's a (good) chance it'll rain...",
+        "vietnamese": "Có rất nhiều khả năng trời sẽ mưa."
+      },
+      {
+        "id": 2,
+        "english": "In all probability, it'll rain...",
+        "vietnamese": "Hầu như chắc chắn, trời sẽ mưa."
+      },
+      {
+        "id": 3,
+        "english": "The odds are it'll rain tomorrow.",
+        "vietnamese": "Sẽ có sự bất thường là trời sẽ mưa vào ngày mai."
+      },
+      {
+        "id": 4,
+        "english": "I wouldn't be surprised if it rained...",
+        "vietnamese": "Sẽ chẳng có gì ngạc nhiên nếu ngày mai trời mưa..."
+      },
+      {
+        "id": 5,
+        "english": "There's a fifty-fifty chance of rain...",
+        "vietnamese": "Khả năng mưa là 50/50..."
+      },
+      {
+        "id": 6,
+        "english": "It's quite likely it'll rain...",
+        "vietnamese": "Có khả năng là trời sẽ mưa..."
+      },
+      {
+        "id": 7,
+        "english": "It may / might / could rain tomorrow.",
+        "vietnamese": "Có thể mưa vào ngày mai."
+      },
+      {
+        "id": 8,
+        "english": "Maybe it'll rain tomorrow.",
+        "vietnamese": "Có thể mưa vào ngày mai."
+      },
+      {
+        "id": 9,
+        "english": "There's (just) a chance it'll rain.",
+        "vietnamese": "Chỉ có một khả năng là mai sẽ mưa."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Reminding People To Do Things – Nhắc Mọi Người Làm Việc",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Don't forget to do it.",
+        "vietnamese": "Đừng quên làm điều đó."
+      },
+      {
+        "id": 1,
+        "english": "Remember to do it.",
+        "vietnamese": "Nhớ làm điều đó."
+      },
+      {
+        "id": 2,
+        "english": "You will remember to do it.",
+        "vietnamese": "Bạn có nhớ phải làm nó không?"
+      },
+      {
+        "id": 3,
+        "english": "You won't forget to do it, will you?",
+        "vietnamese": "Bạn sẽ không quên làm việc đó chứ, đúng không?"
+      },
+      {
+        "id": 4,
+        "english": "Can / Could I remind you to...?",
+        "vietnamese": "Tôi có thể nhắc bạn...?"
+      },
+      {
+        "id": 5,
+        "english": "I'd like to remind you about...",
+        "vietnamese": "Tôi muốn nhắc bạn điều này..."
+      },
+      {
+        "id": 6,
+        "english": "You haven't forgotten about __, have you?",
+        "vietnamese": "Bạn đã không quên về...chứ?"
+      },
+      {
+        "id": 7,
+        "english": "I hope you haven't forgotten to...",
+        "vietnamese": "Tôi hi vọng bạn đã không quên..."
+      },
+      {
+        "id": 8,
+        "english": "Sorry to be a bore but do you remember to...",
+        "vietnamese": "Xin lỗi vì đã làm phiền, nhưng bạn có nhớ..."
+      },
+      {
+        "id": 9,
+        "english": "May I remind you / all passengers that...",
+        "vietnamese": "Tôi có thể nhắc nhở bạn/ tất cả các hành khách rằng..."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Like – Thích",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I'm really into it.",
+        "vietnamese": "Tôi thực sự thích nó."
+      },
+      {
+        "id": 1,
+        "english": "I'm stoked on it.",
+        "vietnamese": "Tôi hứng thú với nó... muốn hiểu thêm về nó."
+      },
+      {
+        "id": 2,
+        "english": "I'm fond of it.",
+        "vietnamese": "Tôi thích nó."
+      },
+      {
+        "id": 3,
+        "english": "It appeals to me.",
+        "vietnamese": "Nghe có vẻ hay."
+      },
+      {
+        "id": 4,
+        "english": "It goes down well (with people).",
+        "vietnamese": "Những người khác thích điều đó."
+      },
+      {
+        "id": 5,
+        "english": "I like it / I'm partial to it.",
+        "vietnamese": "Tôi thích nó. / Tôi là một phần của nó."
+      },
+      {
+        "id": 6,
+        "english": "I'm crazy about it.",
+        "vietnamese": "Tôi rất thích cái gì đó, nó luôn là sở thích của tôi."
+      },
+      {
+        "id": 7,
+        "english": "I'm mad about it.",
+        "vietnamese": "Tôi thích nó phát điên."
+      },
+      {
+        "id": 8,
+        "english": "I'm attached to it.",
+        "vietnamese": "Tôi thích nó phát điên."
+      },
+      {
+        "id": 9,
+        "english": "I'm passionate about it.",
+        "vietnamese": "Tôi bị bắt mắt bởi nó."
+      },
+      {
+        "id": 10,
+        "english": "I'm addicted to it.",
+        "vietnamese": "Tôi đam mê nó."
+      },
+      {
+        "id": 11,
+        "english": "I've grown to like it.",
+        "vietnamese": "Tôi nghiện nó, say mê nó."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dislike – Không Thích",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I don't really like cheating.",
+        "vietnamese": "Tôi thật sự không thích gian lận."
+      },
+      {
+        "id": 1,
+        "english": "Cheating is not very me.",
+        "vietnamese": "Lừa dối không hợp với tôi."
+      },
+      {
+        "id": 2,
+        "english": "Cheating is not my style.",
+        "vietnamese": "Lừa dối không phải là phong cách của tôi."
+      },
+      {
+        "id": 3,
+        "english": "Cheating doesn't do anything for me.",
+        "vietnamese": "Việc gian lận chẳng có tác dụng gì với tôi."
+      },
+      {
+        "id": 4,
+        "english": "Cheating is not my thing.",
+        "vietnamese": "Lừa dối không phải thứ mà tôi có."
+      },
+      {
+        "id": 5,
+        "english": "I'm not into cheating.",
+        "vietnamese": "Tôi không thích gian lận."
+      },
+      {
+        "id": 6,
+        "english": "Cheating sucks.",
+        "vietnamese": "Lừa dối thật tệ."
+      },
+      {
+        "id": 7,
+        "english": "I'm not a big fan of cheating.",
+        "vietnamese": "Tôi không phải là fan của sự lừa dối."
+      },
+      {
+        "id": 8,
+        "english": "I never listen to cheating.",
+        "vietnamese": "Tôi không bao giờ muốn nghe một lời nói dối."
+      },
+      {
+        "id": 9,
+        "english": "You can keep cheating.",
+        "vietnamese": "Bạn cứ nói dối đi."
+      },
+      {
+        "id": 10,
+        "english": "I'm not fond of it.",
+        "vietnamese": "Tôi không thích nó."
+      },
+      {
+        "id": 11,
+        "english": "I'm not crazy about it.",
+        "vietnamese": "Tôi không thích nó."
+      },
+      {
+        "id": 12,
+        "english": "I don't appreciate that.",
+        "vietnamese": "Tôi không đánh giá cao điều đó."
+      },
+      {
+        "id": 13,
+        "english": "That's not for me.",
+        "vietnamese": "Nó không dành cho tôi."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Wanting Things – Muốn Thứ Gì Đó",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I'd really like / I'd love a day off.",
+        "vietnamese": "Tôi thực sự muốn có một ngày nghỉ."
+      },
+      {
+        "id": 1,
+        "english": "I wouldn't mind a...",
+        "vietnamese": "Tôi sẽ không ngại..."
+      },
+      {
+        "id": 2,
+        "english": "I could (really) do with a...",
+        "vietnamese": "Tôi thật sự thích làm gì đó với một..."
+      },
+      {
+        "id": 3,
+        "english": "I could use a...",
+        "vietnamese": "Tôi cần dùng... (vì nó rất có ích)"
+      },
+      {
+        "id": 4,
+        "english": "What I'd really like / love is a...",
+        "vietnamese": "Điều tôi thật sự thích là một..."
+      },
+      {
+        "id": 5,
+        "english": "All (that) we need is a day off.",
+        "vietnamese": "Tất cả những thứ tôi cần là một ngày nghỉ."
+      },
+      {
+        "id": 6,
+        "english": "Ideally, what I'd like is a day off.",
+        "vietnamese": "Thật lý tưởng, tôi thật sự thích một ngày nghỉ."
+      },
+      {
+        "id": 7,
+        "english": "A (bunch of red roses) would be (much) appreciated.",
+        "vietnamese": "Một (bó hoa hồng đỏ) sẽ được đánh giá cao hơn."
+      },
+      {
+        "id": 8,
+        "english": "A _____ would go down well.",
+        "vietnamese": "Một (cái gì đó) sẽ được tán thành."
+      },
+      {
+        "id": 9,
+        "english": "I'm dying for / longing for...",
+        "vietnamese": "Tôi thèm...quá đi mất"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Tell Someone Not To Be Worried – Nói Ai Đó Không Cần Lo Lắng",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Suck it up.",
+        "vietnamese": "Cố mà chịu đựng đi!"
+      },
+      {
+        "id": 1,
+        "english": "Cheer up.",
+        "vietnamese": "Phấn khởi lên, vui lên (đừng buồn nữa)."
+      },
+      {
+        "id": 2,
+        "english": "Forget it / Forget about it.",
+        "vietnamese": "Quên nó đi."
+      },
+      {
+        "id": 3,
+        "english": "Never mind.",
+        "vietnamese": "Đừng bận tâm."
+      },
+      {
+        "id": 4,
+        "english": "No harm done.",
+        "vietnamese": "Không có gì đâu = It doesn't matter."
+      },
+      {
+        "id": 5,
+        "english": "Don't panic / No worries..",
+        "vietnamese": "Đừng sợ."
+      },
+      {
+        "id": 6,
+        "english": "Everything will be ok.",
+        "vietnamese": "Mọi chuyện rồi sẽ ổn."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Cheering People Up – Khích Lệ Mọi Người",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Cheer up!",
+        "vietnamese": "Vui lên nào!"
+      },
+      {
+        "id": 1,
+        "english": "Smile!",
+        "vietnamese": "Cười đi nào!"
+      },
+      {
+        "id": 2,
+        "english": "It's not the end of the world.",
+        "vietnamese": "Chưa phải là ngày tận thế mà."
+      },
+      {
+        "id": 3,
+        "english": "Worse things happen at sea.",
+        "vietnamese": "Như vậy còn may chán = \"IT COULD BE WORSE\"."
+      },
+      {
+        "id": 4,
+        "english": "Look on the bright side...",
+        "vietnamese": "Hãy nhìn mặt tốt của vấn đề gì đó."
+      },
+      {
+        "id": 5,
+        "english": "Every cloud (has a silver lining).",
+        "vietnamese": "Sau cơn mưa trời lại sáng."
+      },
+      {
+        "id": 6,
+        "english": "Practice makes perfect.",
+        "vietnamese": "Kiên trì (luyện tập) tạo nên thành công."
+      },
+      {
+        "id": 7,
+        "english": "There are plenty more fish in the sea.",
+        "vietnamese": "Còn nhiều lựa chọn khác nữa mà."
+      },
+      {
+        "id": 8,
+        "english": "Lighten up!",
+        "vietnamese": "Vui lên nào!"
+      },
+      {
+        "id": 9,
+        "english": "There's no use crying over spilt milk.",
+        "vietnamese": "Khóc / Kêu ca cũng bằng thừa."
+      },
+      {
+        "id": 10,
+        "english": "Chin up!",
+        "vietnamese": "Hãy ngẩng cao đầu lên, tự tin lên."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Surprise – Ngạc Nhiên",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Really?",
+        "vietnamese": "Thật ư?"
+      },
+      {
+        "id": 1,
+        "english": "What?",
+        "vietnamese": "Cái gì cơ?"
+      },
+      {
+        "id": 2,
+        "english": "What a surprise!",
+        "vietnamese": "Thật đáng kinh ngạc!"
+      },
+      {
+        "id": 3,
+        "english": "No way!",
+        "vietnamese": "Không thể nào."
+      },
+      {
+        "id": 4,
+        "english": "That's the last thing I expected.",
+        "vietnamese": "Đó là điều cuối cùng tôi mong đợi."
+      },
+      {
+        "id": 5,
+        "english": "You're kidding!",
+        "vietnamese": "Bạn đùa à!"
+      },
+      {
+        "id": 6,
+        "english": "I don't believe it! / Are you serious?",
+        "vietnamese": "Tôi không tin! / Bạn nghiêm túc chứ?"
+      },
+      {
+        "id": 7,
+        "english": "I'm speechless!",
+        "vietnamese": "Tôi không thể thốt nên lời nữa rồi!"
+      },
+      {
+        "id": 8,
+        "english": "I'd never have guessed.",
+        "vietnamese": "Tôi chưa bao giờ nghĩ đến điều đó."
+      },
+      {
+        "id": 9,
+        "english": "You don't say!",
+        "vietnamese": "Thật bất ngờ!"
+      },
+      {
+        "id": 10,
+        "english": "This is such a nice surprise, thanks so much for this.",
+        "vietnamese": "Đó thật sự là một điều bất ngờ, cảm ơn rất nhiều vì điều đó."
+      },
+      {
+        "id": 11,
+        "english": "Unbelievable, I never expected it.",
+        "vietnamese": "Không thể nào tin được, tôi chưa bao giờ mong đợi nó."
+      },
+      {
+        "id": 12,
+        "english": "Oh my gosh, this is wild, I didn't have a clue about this.",
+        "vietnamese": "Ôi trời ơi, nó thật lạ. Tôi chưa bao giờ nghe gì về nó."
+      },
+      {
+        "id": 13,
+        "english": "Wow, how awesome is that?! I was completely surprised.",
+        "vietnamese": "Òa.. Nó thật quá tuyệt. Tôi hoàn toàn bị kinh ngạc."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Say Things Are Good – Khen Điều Gì Tốt, Giỏi",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "It's great.",
+        "vietnamese": "Nó thật tuyệt."
+      },
+      {
+        "id": 1,
+        "english": "It's fantastic.",
+        "vietnamese": "Nó thật tuyệt."
+      },
+      {
+        "id": 2,
+        "english": "It's excellent.",
+        "vietnamese": "Xuất sắc."
+      },
+      {
+        "id": 3,
+        "english": "It's better than average.",
+        "vietnamese": "Nó trên mức trung bình."
+      },
+      {
+        "id": 4,
+        "english": "It's not bad.",
+        "vietnamese": "Không tồi."
+      },
+      {
+        "id": 5,
+        "english": "I'd recommend it.",
+        "vietnamese": "Tôi muốn giới thiệu nó cho bạn."
+      },
+      {
+        "id": 6,
+        "english": "I'm very impressed.",
+        "vietnamese": "Thật ấn tượng."
+      },
+      {
+        "id": 7,
+        "english": "It's better than I expected.",
+        "vietnamese": "Tốt hơn những gì tôi mong đợi."
+      },
+      {
+        "id": 8,
+        "english": "It's the best I've ever seen / tasted.",
+        "vietnamese": "Nó là thứ tốt nhất tôi từng thấy/ thưởng thức."
+      },
+      {
+        "id": 9,
+        "english": "I could ___ till the cows come home.",
+        "vietnamese": "Tôi làm điều gì đó một cách đủng đỉnh, chậm rãi."
+      },
+      {
+        "id": 10,
+        "english": "Awesome!",
+        "vietnamese": "Tuyệt vời!"
+      },
+      {
+        "id": 11,
+        "english": "That's right!",
+        "vietnamese": "Đúng rồi!"
+      },
+      {
+        "id": 12,
+        "english": "That's good.",
+        "vietnamese": "Tốt lắm."
+      },
+      {
+        "id": 13,
+        "english": "Good for you!",
+        "vietnamese": "Tốt lắm!"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Saying When Being Angry – Khi Tức Giận",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I don't believe it!",
+        "vietnamese": "Tôi không tin điều đó!"
+      },
+      {
+        "id": 1,
+        "english": "What a pain!",
+        "vietnamese": "Thật đau xót!"
+      },
+      {
+        "id": 2,
+        "english": "It's driving me up the wall.",
+        "vietnamese": "Điều đó làm tôi rất khó chịu và bực tức."
+      },
+      {
+        "id": 3,
+        "english": "I've had it up to here with...",
+        "vietnamese": "Tôi chịu hết nối rồi..."
+      },
+      {
+        "id": 4,
+        "english": "I've had all I can take of...",
+        "vietnamese": "Tôi chịu hết nối rồi..."
+      },
+      {
+        "id": 5,
+        "english": "It really gets on my nerves.",
+        "vietnamese": "Nó thật sự làm tôi bực mình."
+      },
+      {
+        "id": 6,
+        "english": "I'm sick and tired of...",
+        "vietnamese": "Tôi phát bệnh vì..."
+      },
+      {
+        "id": 7,
+        "english": "I'm fed up with it.",
+        "vietnamese": "Tôi chán ngấy với nó."
+      },
+      {
+        "id": 8,
+        "english": "I could really do without it.",
+        "vietnamese": "Tôi có thể làm nếu không có nó."
+      },
+      {
+        "id": 9,
+        "english": "Is it possible?",
+        "vietnamese": "Nó có thể ư?"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ways To Say That You're Well – Các Cách Nói Rằng Bạn Khỏe",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I'm fine thank you.",
+        "vietnamese": "Tôi ổn, cảm ơn."
+      },
+      {
+        "id": 1,
+        "english": "I feel great / marvellous / fine.",
+        "vietnamese": "Tôi cảm thấy tuyệt/ kỳ diệu/ tốt."
+      },
+      {
+        "id": 2,
+        "english": "Couldn't be better.",
+        "vietnamese": "Không thể tốt hơn."
+      },
+      {
+        "id": 3,
+        "english": "Fit as a fiddle.",
+        "vietnamese": "Rất khỏe, rất sung sức."
+      },
+      {
+        "id": 4,
+        "english": "Very well, thanks.",
+        "vietnamese": "Rất tốt, cảm ơn."
+      },
+      {
+        "id": 5,
+        "english": "Okay.",
+        "vietnamese": "Được."
+      },
+      {
+        "id": 6,
+        "english": "Alright.",
+        "vietnamese": "Được/ Tốt."
+      },
+      {
+        "id": 7,
+        "english": "Not bad.",
+        "vietnamese": "Không tồi."
+      },
+      {
+        "id": 8,
+        "english": "Much better.",
+        "vietnamese": "Tốt hơn nhiều."
+      },
+      {
+        "id": 9,
+        "english": "All the better for seeing you.",
+        "vietnamese": "Tuyệt vời hơn hết là được gặp lại bạn."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Being Relieved – Thể Hiện Cảm Giác Nhẹ Nhõm",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Phew!",
+        "vietnamese": "Phù!"
+      },
+      {
+        "id": 1,
+        "english": "Thank God (for that)!",
+        "vietnamese": "Cảm ơn chúa!"
+      },
+      {
+        "id": 2,
+        "english": "What a relief!",
+        "vietnamese": "Thật là nhẹ nhõm!"
+      },
+      {
+        "id": 3,
+        "english": "I'm so relieved to hear that.",
+        "vietnamese": "Thật sự nhẹ nhõm khi nghe điều đó."
+      },
+      {
+        "id": 4,
+        "english": "You had me worried (there / for a moment).",
+        "vietnamese": "Bạn khiến tôi lo lắng trong giây lát."
+      },
+      {
+        "id": 5,
+        "english": "That's a weight off my mind.",
+        "vietnamese": "Điều đó khiến tôi thở phào nhẹ nhõm."
+      },
+      {
+        "id": 6,
+        "english": "You've no idea what a relief it is to hear.",
+        "vietnamese": "Bạn không biết tôi nhẹ nhõm thế nào khi nghe điều đó đâu."
+      },
+      {
+        "id": 7,
+        "english": "That's one less thing to worry about.",
+        "vietnamese": "Đó là một điều ít phải lo lắng."
+      },
+      {
+        "id": 8,
+        "english": "What a stroke of luck!",
+        "vietnamese": "Thật là một sự may mắn bất ngờ!"
+      },
+      {
+        "id": 9,
+        "english": "(Oh well.) All's well that ends well!",
+        "vietnamese": "(Oh tuyệt) Mọi thứ tốt từ đầu đến cuối!"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Being Worried – Thể Hiện Lo Lắng",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I'm (so) worried about...",
+        "vietnamese": "Tôi thật sự lo lắng về..."
+      },
+      {
+        "id": 1,
+        "english": "I'm afraid...",
+        "vietnamese": "Tôi e rằng/ Tôi sợ rằng..."
+      },
+      {
+        "id": 2,
+        "english": "I can't help thinking...",
+        "vietnamese": "Tôi không thể không nghĩ..."
+      },
+      {
+        "id": 3,
+        "english": "I can't stop thinking about it.",
+        "vietnamese": "Tôi không thể ngừng suy nghĩ về nó."
+      },
+      {
+        "id": 4,
+        "english": "I've been worried sick about....",
+        "vietnamese": "Tôi lo lắng phát ốm về..."
+      },
+      {
+        "id": 5,
+        "english": "It's been keeping me awake at night.",
+        "vietnamese": "Điều đó làm cho tôi mất ngủ cả đêm."
+      },
+      {
+        "id": 6,
+        "english": "I'm scared stiff / to death that...",
+        "vietnamese": "Sợ chết đi được..."
+      },
+      {
+        "id": 7,
+        "english": "I'm really nervous.",
+        "vietnamese": "Tôi vô cùng lo lắng."
+      },
+      {
+        "id": 8,
+        "english": "I've got butterflies in my stomach.",
+        "vietnamese": "Tôi thấy bồn chồn lo lắng."
+      },
+      {
+        "id": 9,
+        "english": "I'm absolutely dreading...",
+        "vietnamese": "Tôi vô cùng kinh sợ..."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Boring – Chán Nản",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "How boring / tedious / dull !",
+        "vietnamese": "Thật nhàm chán/ tẻ nhạt/ ngu ngốc làm sao!"
+      },
+      {
+        "id": 1,
+        "english": "What a bore!",
+        "vietnamese": "Thật chán quá!"
+      },
+      {
+        "id": 2,
+        "english": "It bores me to tears.",
+        "vietnamese": "Nó làm tôi buồn phát khóc."
+      },
+      {
+        "id": 3,
+        "english": "It leaves me cold.",
+        "vietnamese": "Nó chẳng mang lại cho tôi cảm hứng/ hứng thú gì."
+      },
+      {
+        "id": 4,
+        "english": "It does nothing for me.",
+        "vietnamese": "Nó chẳng có ý nghĩa gì với tôi."
+      },
+      {
+        "id": 5,
+        "english": "It's as dull as ditch-water.",
+        "vietnamese": "Nó quá là nhàm chán."
+      },
+      {
+        "id": 6,
+        "english": "I can't see what all the fuss is about.",
+        "vietnamese": "Tôi chẳng hiểu tại sao người ta cứ phải nói đi nói lại chuyện đó."
+      },
+      {
+        "id": 7,
+        "english": "It's as interesting as watching paint dry.",
+        "vietnamese": "Thật là buồn tẻ/ nhàm chán."
+      },
+      {
+        "id": 8,
+        "english": "I'm afraid I don't share your enthusiasm.",
+        "vietnamese": "Tôi e là tôi không có cùng hứng thú với bạn."
+      },
+      {
+        "id": 9,
+        "english": "I can't say that I find it interesting.",
+        "vietnamese": "Tôi không thể nói là tôi thấy nó thú vị."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Don't Know – Khi Không Biết Điều Gì",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Sorry. I don't know.",
+        "vietnamese": "Xin lỗi, tôi không biết."
+      },
+      {
+        "id": 1,
+        "english": "(I'm afraid,) I've no idea.",
+        "vietnamese": "(Tôi e rằng). Tôi không biết."
+      },
+      {
+        "id": 2,
+        "english": "(Sorry,) I can't help you there.",
+        "vietnamese": "Xin lỗi, Tôi không thể giúp bạn."
+      },
+      {
+        "id": 3,
+        "english": "I don't know anything about...(cars)",
+        "vietnamese": "Tôi không biết bất cứ điều gì về..."
+      },
+      {
+        "id": 4,
+        "english": "I don't know the first thing about (cars).",
+        "vietnamese": "Tôi không biết chút gì về..."
+      },
+      {
+        "id": 5,
+        "english": "I haven't got a clue.",
+        "vietnamese": "Tôi không biết một tí gì (về việc đang nhắc đến)."
+      },
+      {
+        "id": 6,
+        "english": "Search me.",
+        "vietnamese": "Tôi không biết."
+      },
+      {
+        "id": 7,
+        "english": "Don't ask me.",
+        "vietnamese": "Đừng hỏi tôi."
+      },
+      {
+        "id": 8,
+        "english": "How the hell should I know? / How should I know?",
+        "vietnamese": "Thế quái nào mà tôi biết được / Sao mà tôi biết được?"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Making Suggestions – Đưa Ra Lời Gợi Ý",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Why don't we go to the cinema?",
+        "vietnamese": "Tại sao chúng ta lại không đi xem phim nhỉ?"
+      },
+      {
+        "id": 1,
+        "english": "Let's go to the cinema. What do you think?",
+        "vietnamese": "Đi xem phim đi, bạn nghĩ sao?"
+      },
+      {
+        "id": 2,
+        "english": "How about going to the cinema?",
+        "vietnamese": "Thế xem phim thì sao?"
+      },
+      {
+        "id": 3,
+        "english": "How do you feel about seeing a film?",
+        "vietnamese": "Bạn thấy sao nếu chúng ta đi xem phim?"
+      },
+      {
+        "id": 4,
+        "english": "Fancy seeing a film?",
+        "vietnamese": "Bạn có phải là người cuồng phim không?"
+      },
+      {
+        "id": 5,
+        "english": "I'd like to see a film. How about you?",
+        "vietnamese": "Tôi thích xem phim. Còn bạn thì sao?"
+      },
+      {
+        "id": 6,
+        "english": "We could always see a film.",
+        "vietnamese": "Chúng tôi có thể xem phim suốt luôn."
+      },
+      {
+        "id": 7,
+        "english": "Why not go and see a film?",
+        "vietnamese": "Tại sao không đi và xem phim?"
+      },
+      {
+        "id": 8,
+        "english": "Seeing a film's a good idea.",
+        "vietnamese": "Xem phim cũng là 1 ý hay đấy."
+      },
+      {
+        "id": 9,
+        "english": "It would be nice to see a film.",
+        "vietnamese": "Sẽ rất tuyệt khi đi xem một bộ phim."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Asking For Help – Hỏi Xin Giúp Đỡ",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Can you give me a hand with this?",
+        "vietnamese": "Bạn có thể giúp tôi một tay không?"
+      },
+      {
+        "id": 1,
+        "english": "Could you help me for a second?",
+        "vietnamese": "Bạn có thể giúp tôi trong giây lát được không?"
+      },
+      {
+        "id": 2,
+        "english": "Can I ask a favour?",
+        "vietnamese": "Tôi có thể nhờ bạn giúp không?"
+      },
+      {
+        "id": 3,
+        "english": "I wonder if you could help me with this?",
+        "vietnamese": "Tôi tự hỏi bạn có thể giúp tôi điều này được không?"
+      },
+      {
+        "id": 4,
+        "english": "I could do with some help, please.",
+        "vietnamese": "Tôi sẽ có thể làm được nếu có được sự giúp đỡ."
+      },
+      {
+        "id": 5,
+        "english": "I can't manage. Can you help?",
+        "vietnamese": "Tôi không thể giải quyết được. Bạn có thể giúp tôi được không?"
+      },
+      {
+        "id": 6,
+        "english": "Give me a hand with this, will you?",
+        "vietnamese": "Bạn có thể giúp tôi một tay được không?"
+      },
+      {
+        "id": 7,
+        "english": "Lend me a hand with this, will you?",
+        "vietnamese": "Giúp tôi một tay nhé?"
+      },
+      {
+        "id": 8,
+        "english": "Could you spare a moment?",
+        "vietnamese": "Cho tôi xin một vài phút được không?"
+      },
+      {
+        "id": 9,
+        "english": "I need some help, please.",
+        "vietnamese": "Làm ơn, tôi cần sự giúp đỡ."
+      },
+      {
+        "id": 10,
+        "english": "Would you mind helping me?",
+        "vietnamese": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "id": 11,
+        "english": "Could you help me?",
+        "vietnamese": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "id": 12,
+        "english": "Could you help me out?",
+        "vietnamese": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "id": 13,
+        "english": "Could you do me a favor?",
+        "vietnamese": "Bạn có thể làm cho tôi một việc được không?"
+      },
+      {
+        "id": 14,
+        "english": "Could you give me a hand?",
+        "vietnamese": "Bạn có thể giúp tôi một tay không?"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Suggest Giving Help – Đề Nghị Giúp Đỡ",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Would you mind showing me ____?",
+        "vietnamese": "Bạn có thể chỉ cho tôi...?"
+      },
+      {
+        "id": 1,
+        "english": "Do you know anything about ____?",
+        "vietnamese": "Bạn có biết chút gì về...?"
+      },
+      {
+        "id": 2,
+        "english": "Do you have any free time on/at ____(day, date, time)?",
+        "vietnamese": "Bạn có thời gian rảnh vào ...(ngày, giờ)?"
+      },
+      {
+        "id": 3,
+        "english": "I am having a problem with ____. Do you think you can help me?",
+        "vietnamese": "Tôi có vấn đề với... Bạn có nghĩ rằng bạn có thể giúp tôi không?"
+      },
+      {
+        "id": 4,
+        "english": "I heard that you have a lot of experience with ____, and I could really use your help.",
+        "vietnamese": "Tôi được biết bạn có rất nhiều kinh nghiệm về... và tôi thực sự muốn sự giúp đỡ của bạn."
+      },
+      {
+        "id": 5,
+        "english": "Would you mind showing me ____?",
+        "vietnamese": "Cảm phiền bạn chỉ cho tôi..."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Ask Somebody's Opinion – Hỏi Quan Điểm Ai Đó",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "What do you think of...?",
+        "vietnamese": "Bạn nghĩ gì về...?"
+      },
+      {
+        "id": 1,
+        "english": "What do you think about...?",
+        "vietnamese": "Bạn nghĩ gì về...?"
+      },
+      {
+        "id": 2,
+        "english": "How d'you feel (about...)?",
+        "vietnamese": "Bạn cảm thấy như thế nào về...?"
+      },
+      {
+        "id": 3,
+        "english": "What d'you reckon (about...)?",
+        "vietnamese": "Bạn nghĩ như thế nào về...?"
+      },
+      {
+        "id": 4,
+        "english": "What's your opinion of...?",
+        "vietnamese": "Bạn có ý kiến gì về...?"
+      },
+      {
+        "id": 5,
+        "english": "(What do think about) that?",
+        "vietnamese": "Bạn nghĩ sao về điều đó?"
+      },
+      {
+        "id": 6,
+        "english": "What are your views on...?",
+        "vietnamese": "Quan điểm của bạn về...là gì?"
+      },
+      {
+        "id": 7,
+        "english": "Where do you stand (on...)?",
+        "vietnamese": "Ý kiến của bạn về... là?"
+      },
+      {
+        "id": 8,
+        "english": "What would you say to... / if we...?",
+        "vietnamese": "Bạn muốn nói gì về.../ nếu chúng ta...?"
+      },
+      {
+        "id": 9,
+        "english": "Are you aware of.....?",
+        "vietnamese": "Bạn có biết về...?"
+      },
+      {
+        "id": 10,
+        "english": "What's your view?",
+        "vietnamese": "Ý kiến của bạn như nào về...?"
+      },
+      {
+        "id": 11,
+        "english": "How do you see the situation?",
+        "vietnamese": "Bạn thấy tình huống này như thế nào?"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Ask For Information – Hỏi Thăm Tin Tức",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Can you tell me...?",
+        "vietnamese": "Bạn có thể nói cho tôi biết...?"
+      },
+      {
+        "id": 1,
+        "english": "Could you tell me...?",
+        "vietnamese": "Làm ơn nói cho tôi...?"
+      },
+      {
+        "id": 2,
+        "english": "I'd like to know...",
+        "vietnamese": "Tôi muốn biết...?"
+      },
+      {
+        "id": 3,
+        "english": "D'you know...",
+        "vietnamese": "Bạn có biết...?"
+      },
+      {
+        "id": 4,
+        "english": "Have you got any idea...?",
+        "vietnamese": "Bạn có ý tưởng nào cho...?"
+      },
+      {
+        "id": 5,
+        "english": "Could anyone tell me...?",
+        "vietnamese": "Ai đó làm ơn nói cho tôi...?"
+      },
+      {
+        "id": 6,
+        "english": "(Do / Would) you happen to know...?",
+        "vietnamese": "Bạn có tình cờ biết rằng...?"
+      },
+      {
+        "id": 7,
+        "english": "I don't suppose you (would) know...?",
+        "vietnamese": "Tôi không nghĩ bạn sẽ biết....?"
+      },
+      {
+        "id": 8,
+        "english": "I wonder if you could tell me...?",
+        "vietnamese": "Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?"
+      },
+      {
+        "id": 9,
+        "english": "I wonder if someone could tell me...?",
+        "vietnamese": "Tôi tự hỏi ai đó có thể cho tôi biết...?"
+      },
+      {
+        "id": 10,
+        "english": "I wonder if you could + tell me/explain/provide information on...",
+        "vietnamese": "Tôi tự hỏi bạn có thể nói/ giải thích/ cung cấp thông tin về...?"
+      },
+      {
+        "id": 11,
+        "english": "Would you mind + verb + ing...?",
+        "vietnamese": "Bạn có phiền khi...?"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ask About Health/Life – Hỏi Thăm Sức Khỏe/Cuộc Sống",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "How are you?",
+        "vietnamese": "Bạn khỏe không?"
+      },
+      {
+        "id": 1,
+        "english": "How are things?",
+        "vietnamese": "Mọi thứ ổn chứ?"
+      },
+      {
+        "id": 2,
+        "english": "How's things?",
+        "vietnamese": "Mọi thứ ổn chứ?"
+      },
+      {
+        "id": 3,
+        "english": "How's it going?",
+        "vietnamese": "Mọi chuyện thế nào rồi?"
+      },
+      {
+        "id": 4,
+        "english": "How are you getting on?",
+        "vietnamese": "Dạo này công việc sao rồi?"
+      },
+      {
+        "id": 5,
+        "english": "How have you been?",
+        "vietnamese": "Dạo này thế nào? / Hồi này sao rồi?"
+      },
+      {
+        "id": 6,
+        "english": "What have you been (getting) up to?",
+        "vietnamese": "Dạo này cậu làm gì?"
+      },
+      {
+        "id": 7,
+        "english": "I hope everything's okay?",
+        "vietnamese": "Tôi hy vọng mọi chuyện sẽ ổn?"
+      },
+      {
+        "id": 8,
+        "english": "Alright?",
+        "vietnamese": "Ổn chứ?"
+      },
+      {
+        "id": 9,
+        "english": "How have you been keeping?",
+        "vietnamese": "Dạo này bạn thế nào?"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Supermarket Phrases – Câu Sử Dụng Khi Đi Mua Sắm",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Where can I find the chocolate chip cookies? / Excuse me, where can I find the chocolate chip cookies?",
+        "vietnamese": "Tôi có thể tìm bánh quy sô cô la ở đâu? / Xin lỗi, tôi có thể tìm bánh quy sô cô la ở đâu?"
+      },
+      {
+        "id": 1,
+        "english": "They're on aisle 7 (next to the cakes).",
+        "vietnamese": "Chúng đang ở gian số 7 (Cạnh gian bánh ngọt)."
+      },
+      {
+        "id": 2,
+        "english": "Sorry, it's out of stock at the moment.",
+        "vietnamese": "Xin lỗi, hiện giờ hàng đã hết."
+      },
+      {
+        "id": 3,
+        "english": "I'm afraid it's been discontinued.",
+        "vietnamese": "Tôi e rằng nó không hoạt động nữa."
+      },
+      {
+        "id": 4,
+        "english": "How would you like to pay?",
+        "vietnamese": "Bạn muốn trả bằng hình thức nào?"
+      },
+      {
+        "id": 5,
+        "english": "Do you need any help packing?",
+        "vietnamese": "Bạn có cần giúp gói đồ lại không?"
+      },
+      {
+        "id": 6,
+        "english": "I can manage myself thank you. Would you like a bag for ten cent extra?",
+        "vietnamese": "Tôi có thể tự lo liệu được, cảm ơn. Bạn có muốn thêm 10 xu để có chiếc túi không?"
+      },
+      {
+        "id": 7,
+        "english": "How much is this dress?",
+        "vietnamese": "Cái váy này bao nhiêu tiền?"
+      },
+      {
+        "id": 8,
+        "english": "Please enter your PIN number.",
+        "vietnamese": "Vui lòng nhập mã PIN của bạn."
+      },
+      {
+        "id": 9,
+        "english": "Would you like a receipt?",
+        "vietnamese": "Bạn có cần hóa đơn không?"
+      },
+      {
+        "id": 10,
+        "english": "Do you have non-fat milk?",
+        "vietnamese": "Có còn sữa không béo không?"
+      },
+      {
+        "id": 11,
+        "english": "Is this on sale?",
+        "vietnamese": "Nó đang giảm giá phải không?"
+      },
+      {
+        "id": 12,
+        "english": "Please sign here.",
+        "vietnamese": "Vui lòng ký vào đây."
+      },
+      {
+        "id": 13,
+        "english": "Here's your change.",
+        "vietnamese": "Đây là tiền thừa của bạn nhé."
+      },
+      {
+        "id": 14,
+        "english": "How may I help you?",
+        "vietnamese": "Tôi có thể giúp gì cho bạn?"
+      },
+      {
+        "id": 15,
+        "english": "Sorry, it's out of stock.",
+        "vietnamese": "Xin lỗi, nó đã hết hàng."
+      },
+      {
+        "id": 16,
+        "english": "How much would you like?",
+        "vietnamese": "Bạn muốn bao nhiêu chiếc/cái?"
+      },
+      {
+        "id": 17,
+        "english": "What times are you open?",
+        "vietnamese": "Thời gian mở cửa là khi nào?"
+      },
+      {
+        "id": 18,
+        "english": "What time do you close?",
+        "vietnamese": "Thời gian đóng cửa là khi nào?"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "On The Phone – Khi Nghe Điện Thoại",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I'll call you later.",
+        "vietnamese": "Gọi lại cho bạn sau."
+      },
+      {
+        "id": 1,
+        "english": "Leave a message.",
+        "vietnamese": "Để lại tin nhắn."
+      },
+      {
+        "id": 2,
+        "english": "Hi Simon, it's Anna.",
+        "vietnamese": "Chào Simon, đây là Anna."
+      },
+      {
+        "id": 3,
+        "english": "Did you get my message?",
+        "vietnamese": "Bạn có nhận được tin nhắn không?"
+      },
+      {
+        "id": 4,
+        "english": "Can I speak to Rob, please?",
+        "vietnamese": "Làm ơn, tôi có thể nói chuyện với Rob không?"
+      },
+      {
+        "id": 5,
+        "english": "Hi, Jenny. Where are you?",
+        "vietnamese": "Chào Jenny. Bạn ở đâu?"
+      },
+      {
+        "id": 6,
+        "english": "Thanks for getting back to me.",
+        "vietnamese": "Cảm ơn vì đã gọi lại với tôi."
+      },
+      {
+        "id": 7,
+        "english": "Leave a message after the beep.",
+        "vietnamese": "Để lại tin nhắn sau tiếng bíp."
+      },
+      {
+        "id": 8,
+        "english": "What's your number?",
+        "vietnamese": "Số điện thoại của bạn là gì?"
+      },
+      {
+        "id": 9,
+        "english": "I'm returning your call.",
+        "vietnamese": "Tôi sẽ gọi lại."
+      },
+      {
+        "id": 10,
+        "english": "I'm sorry, she/he's not here today. Can I take a message?",
+        "vietnamese": "Tôi rất tiếc, cô/anh ấy không ở đây. Tôi có thể ghi lại lời nhắn giúp bạn không?"
+      },
+      {
+        "id": 11,
+        "english": "Could I ask who's calling, please?",
+        "vietnamese": "Tôi có thể hỏi ai đang gọi đó không?"
+      },
+      {
+        "id": 12,
+        "english": "Could you please take a message? Please tell her/him that...",
+        "vietnamese": "Bạn có thể nhắn dùm tôi không? Hãy nói với cô ấy/ anh ấy rằng...?"
+      },
+      {
+        "id": 13,
+        "english": "When is a good time to call?",
+        "vietnamese": "Khi nào có thể gọi?"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "In The Airport – Ở Sân Bay",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "What is the purpose of your trip?",
+        "vietnamese": "Mục đích chuyến đi này của bạn là gì?"
+      },
+      {
+        "id": 1,
+        "english": "Did you pack this bag yourself?",
+        "vietnamese": "Bạn tự soạn đồ đạc trong túi này đúng không?"
+      },
+      {
+        "id": 2,
+        "english": "Please do not leave any bags unattended.",
+        "vietnamese": "Xin vui lòng đừng bỏ sót hành lý."
+      },
+      {
+        "id": 3,
+        "english": "Do you have anything to declare?",
+        "vietnamese": "Bạn có cần khai báo gì không?"
+      },
+      {
+        "id": 4,
+        "english": "Flight BA333 is now boarding.",
+        "vietnamese": "Chuyến bay BA333 đã có thể bắt đầu lên máy bay."
+      },
+      {
+        "id": 5,
+        "english": "Flight UA666 has been cancelled.",
+        "vietnamese": "Chuyến bay UA666 đã bị hủy."
+      },
+      {
+        "id": 6,
+        "english": "Flight SA999 has been delayed.",
+        "vietnamese": "Chuyến bay SA999 đã bị hoãn."
+      },
+      {
+        "id": 7,
+        "english": "Would passenger Jo Page please come to...",
+        "vietnamese": "Hành khách Jo Page xin vui lòng tới..."
+      },
+      {
+        "id": 8,
+        "english": "This is the final call for flight BA111 to...",
+        "vietnamese": "Đây là cuộc gọi cuối cùng của chuyển bay BA111 tới..."
+      },
+      {
+        "id": 9,
+        "english": "...please make your way to Gate 99.",
+        "vietnamese": "...xin vui lòng đến cửa số 99."
+      },
+      {
+        "id": 10,
+        "english": "Excuse me, where is the American Airlines check-in desk?",
+        "vietnamese": "Làm phiền bạn, đâu là nơi kiểm tra vé vào của American Airlines?"
+      },
+      {
+        "id": 11,
+        "english": "Will my luggage go straight through, or do I need to pick it up in [Chicago]?",
+        "vietnamese": "Hành lý của tôi có thể đi thẳng qua hay tôi phải mang nó ở Chicago?"
+      },
+      {
+        "id": 12,
+        "english": "How much is the fee?",
+        "vietnamese": "Phí là bao nhiêu?"
+      },
+      {
+        "id": 13,
+        "english": "Please mark this bag as 'fragile.'",
+        "vietnamese": "Hãy đánh dấu cái túi chứa \"đồ dễ vỡ\"."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Talking About Rain – Nói Về Trời Mưa",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "Is that rain?",
+        "vietnamese": "Trời mưa đúng không?"
+      },
+      {
+        "id": 1,
+        "english": "It's only a shower.",
+        "vietnamese": "Đó chỉ là cơn mưa nhỏ. (Nó sẽ nhanh tạnh)"
+      },
+      {
+        "id": 2,
+        "english": "It's pouring.",
+        "vietnamese": "Mưa như trút nước."
+      },
+      {
+        "id": 3,
+        "english": "It's bucketing down.",
+        "vietnamese": "Mưa xối xả như trút nước."
+      },
+      {
+        "id": 4,
+        "english": "We'd better run for it.",
+        "vietnamese": "Chúng ta nên đi trốn mưa thì hơn."
+      },
+      {
+        "id": 5,
+        "english": "It's been raining all day.",
+        "vietnamese": "Trời mưa cả ngày hôm nay rồi đấy."
+      },
+      {
+        "id": 6,
+        "english": "I'm soaked to the skin.",
+        "vietnamese": "Tôi ướt như chuột lột."
+      },
+      {
+        "id": 7,
+        "english": "I'm drenched.",
+        "vietnamese": "Tôi ướt như chuột lột rồi."
+      },
+      {
+        "id": 8,
+        "english": "Looks like rain.",
+        "vietnamese": "Có vẻ như trời sắp mưa."
+      },
+      {
+        "id": 9,
+        "english": "We could do with some rain.",
+        "vietnamese": "Sẽ rất tuyệt nếu có mưa. (Mong trời mưa)"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Talking About Weather – Nói Về Thời Tiết",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "It's freezing outside!",
+        "vietnamese": "Bên ngoài trời lạnh cóng."
+      },
+      {
+        "id": 1,
+        "english": "It's kinda chilly. Wrap up warm.",
+        "vietnamese": "Trời hơi lạnh đó. Nhớ mặc áo ấm."
+      },
+      {
+        "id": 2,
+        "english": "It's cold.",
+        "vietnamese": "Lạnh thật."
+      },
+      {
+        "id": 3,
+        "english": "It's like the Arctic out there.",
+        "vietnamese": "Ngoài kia lạnh như Bắc cực."
+      },
+      {
+        "id": 4,
+        "english": "It's chilly. Take a sweater",
+        "vietnamese": "Trời lạnh đấy. Mặc áo len đi."
+      },
+      {
+        "id": 5,
+        "english": "You can see your breath.",
+        "vietnamese": "Bạn có thể thấy hơi thở của mình luôn."
+      },
+      {
+        "id": 6,
+        "english": "It's below zero.",
+        "vietnamese": "Dưới 0 độ. Nhiệt độ âm."
+      },
+      {
+        "id": 7,
+        "english": "It must be minus five or more.",
+        "vietnamese": "Nhiệt độ hiện nay chỉ khoảng năm độ hoặc thấp hơn."
+      },
+      {
+        "id": 8,
+        "english": "It's pretty frosty today.",
+        "vietnamese": "Hôm nay là một ngày nhiều sương."
+      },
+      {
+        "id": 9,
+        "english": "I've gotta scrape the windsheild, it's that cold..",
+        "vietnamese": "Tôi phải cạo kính chắn gió rồi. Lạnh thật."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Jobs – Công Việc",
+    "sentences": [
+      {
+        "id": 0,
+        "english": "I'm a hairdresser.",
+        "vietnamese": "Tôi là thợ cắt tóc."
+      },
+      {
+        "id": 1,
+        "english": "I'm in hairdressing.",
+        "vietnamese": "Tôi đang làm tóc."
+      },
+      {
+        "id": 2,
+        "english": "I work as a hairdresser.",
+        "vietnamese": "Tôi làm nghề cắt tóc."
+      },
+      {
+        "id": 3,
+        "english": "I'm a professional hairdresser.",
+        "vietnamese": "Tôi là thợ cắt tóc chuyên nghiệp."
+      },
+      {
+        "id": 4,
+        "english": "I'm a hair stylist.",
+        "vietnamese": "Tôi là nhà tạo mẫu tóc."
+      },
+      {
+        "id": 5,
+        "english": "I'm in the hairdressing business.",
+        "vietnamese": "Tôi kinh doanh về ngành làm tóc."
+      },
+      {
+        "id": 6,
+        "english": "I cut hair (for a living).",
+        "vietnamese": "Tôi kiếm sống bằng nghề cắt tóc."
+      },
+      {
+        "id": 7,
+        "english": "I work for a hairdresser.",
+        "vietnamese": "Tôi làm việc cho một người cắt tóc."
+      },
+      {
+        "id": 8,
+        "english": "My day job is hairdressing.",
+        "vietnamese": "Công việc hàng ngày của tôi là làm tóc."
+      },
+      {
+        "id": 9,
+        "english": "I earn my living as a hairdresser.",
+        "vietnamese": "Tôi kiếm sống bằng nghề cắt tóc."
+      }
+    ]
+  }
+]
